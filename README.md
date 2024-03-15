@@ -2,7 +2,7 @@
 
 O problema do mundo dos blocos consiste em um conjunto de blocos colocados sobre uma
 mesa (infinita em largura) onde cada bloco pode ser empilhado um sobre o outro através de
-um braço robótico. Mundo dos Blocos Pyhton utilizando arquivo STRIPS (Stanford Research Institute Problem Solver);
+um braço robótico.
 
 # Algumas restrições:
 
